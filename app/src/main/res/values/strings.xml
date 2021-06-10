@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Run CulcV3</string>
+    <string name="run_calculator">RUN CALCULATOR</string>
 </resources>
